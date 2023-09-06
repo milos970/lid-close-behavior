@@ -1,6 +1,6 @@
 <h1>Power settings switcher</h1>
 <h2>Description</h2>
-<p>A very simple GUI app that controls, what happen when a lid is close</p>
+<p>A very simple GUI app that controls, what happen when a lid is close.</p>
 <h2>Requirements</h2>
 <ul>
   <li>JRE 20</li>
