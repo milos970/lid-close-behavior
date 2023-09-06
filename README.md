@@ -1,11 +1,11 @@
 <h1>Power settings switcher</h1>
-<h2>Popis</h2>
-<p>Veľmi jednoduchá GUI aplikácia, ktorá pri interakcii mení správanie systému po sklopení krytu na notebooku. Systém buď prejde do režimu spánok, alebo nie</p>
-<h2>Požiadavky na spustenie</h2>
+<h2>Description</h2>
+<p>A very simple GUI app that controls, what happen when a lid is close</p>
+<h2>Requirements</h2>
 <ul>
   <li>JRE 20</li>
 </ul>
-<h2>Jazyky & Frameworky & Nástroje</h2>
+<h2>Languages & Frameworks & Tools</h2>
 <ul>
   <li>Java</li>
   <li>Java Swing</li>
