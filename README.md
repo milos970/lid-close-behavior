@@ -1,11 +1,14 @@
-<h1>Power settings switcher</h1>
-<h2>Description</h2>
-<p>A very simple GUI app that controls, what happen when a lid is close.</p>
+# ⚙️ Lid close behavior
+## 📝 Description
+<p>A very simple GUI app that determines the action taken when the laptop lid is closed.</p>
 <h2>Requirements</h2>
 <ul>
   <li>JRE 20</li>
 </ul>
-<h2>Languages & Frameworks & Tools</h2>
+
+## 🧰 Technologies
+
+### 🔹 Languages & Frameworks  
 <ul>
   <li>Java</li>
   <li>Java Swing</li>
