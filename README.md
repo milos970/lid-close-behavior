@@ -12,5 +12,10 @@
 <ul>
   <li>Java</li>
   <li>Java Swing</li>
-  <li>IntelliJ</li>
+</ul>
+
+### 🔹 Development & Testing
+<ul>
+ <li>IntelliJ</li>
+  <li>Ant</li>
 </ul>
