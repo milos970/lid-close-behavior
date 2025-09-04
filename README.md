@@ -8,14 +8,31 @@
 
 ## 🧰 Technologies
 
-### 🔹 Languages & Frameworks  
-<ul>
-  <li>Java</li>
-  <li>Java Swing</li>
-</ul>
+<table><tr><td valign="top" width="33%">
 
-### 🔹 Development & Testing
-<ul>
- <li>IntelliJ</li>
+
+
+### Languages & Frameworks  
+<div align="left">
+  <ul style="list-style-type: disc; display: inline-block;">
+    <li>Java</li>
+  <li>Java Swing</li>
+  </ul>
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+###  Development & Testing   
+<div align="left">
+  <ul style="list-style-type: disc; display: inline-block;">
+    <li>IntelliJ</li>
   <li>Ant</li>
-</ul>
+  </ul>
+</div>
+
+
+
+
